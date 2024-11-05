@@ -28,7 +28,7 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/jovi20/ddddocr-fastapi/ddddocr-api.git
+   git clone https://github.com/jovi20/ddddocr-fastapi.git
    cd ddddocr-api
    ```
 
